@@ -36,8 +36,8 @@ Other channels such as Social or Referral contribute comparatively less traffic.
 ### 3. Average Engagement Time by Channel
 Visualization Used: Bar Chart
 #### Insight:
-Certain channels have lower traffic but higher engagement time, indicating high-quality users.
-Channels with high traffic but low engagement may attract less relevant users.
+- Certain channels have lower traffic but higher engagement time, indicating high-quality users.
+- Channels with high traffic but low engagement may attract less relevant users.
 #### Insight: Engagement time is a stronger quality metric than traffic alone.
 ![3](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/3.png)
 
