@@ -23,6 +23,7 @@ Visualization Used: Line Charts
 - Traffic peaks indicate successful campaigns or seasonal effects.
 - Declines may suggest reduced marketing activity or content fatigue.
 #### Insight: Monitoring these trends helps in planning campaigns during high-impact periods.
+![1](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/1.png)
 
 ### 2. Marketing Channel Contribution
 Visualization Used: Bar Chart
@@ -30,6 +31,7 @@ Visualization Used: Bar Chart
 One channel (e.g., Organic Search or Direct) contributes the highest number of users.
 Other channels such as Social or Referral contribute comparatively less traffic.
 #### Insight: High-performing channels should be scaled, while underperforming channels need strategy refinement.
+![2](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/2.png)
 
 ### 3. Average Engagement Time by Channel
 Visualization Used: Bar Chart
@@ -37,6 +39,7 @@ Visualization Used: Bar Chart
 Certain channels have lower traffic but higher engagement time, indicating high-quality users.
 Channels with high traffic but low engagement may attract less relevant users.
 #### Insight: Engagement time is a stronger quality metric than traffic alone.
+![3](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/3.png)
 
 ### 4. Engagement Rate Across Channels
 Visualization Used: Bar / Column Chart
@@ -44,6 +47,7 @@ Visualization Used: Bar / Column Chart
 - Engagement rates vary significantly across channels.
 - Some channels drive more engaged sessions than non-engaged sessions.
 #### Insight: Content alignment and audience targeting influence engagement success.
+![4](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/4.png)
 
 ### 5. Engaged vs Non-Engaged Sessions
 Visualization Used: Stacked Bar Chart
@@ -51,6 +55,7 @@ Visualization Used: Stacked Bar Chart
 - Top-performing channels have a higher proportion of engaged sessions.
 - Underperforming channels show a high bounce or low engagement ratio.
 #### Insight: Improving landing pages and call-to-action strategies can boost engagement.
+![5](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/5.png)
 
 ### 6. Hourly Traffic Analysis
 Visualization Used: Line / Heatmap
@@ -58,14 +63,15 @@ Insight:
 - Traffic peaks occur during specific hours of the day.
 - Different channels peak at different times (e.g., Social in evenings, Organic during work hours).
 #### Insight: Publishing content and running ads during peak hours can maximize reach.
+![6](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/6.png)
 
 ### 7. Traffic vs Engagement Correlation
 Visualization Used: Scatter Plot
 #### Insight:
 - High traffic does not always mean high engagement.
 - Moderate correlation observed between sessions and engagement rate.
-
 #### Insight: Quality traffic matters more than quantity.
+![7](https://github.com/KumarBoste/Website_Performance_Analysis/blob/main/Python%20Analysis/7.png)
 
 ## Conclusion
 This Website Performance Analysis project demonstrates how Python can be effectively used to analyze and visualize web analytics data.
